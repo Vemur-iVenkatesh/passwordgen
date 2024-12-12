@@ -1,0 +1,24 @@
+.App {
+  background-image:url(/workspaces/passwordgen/public/logo192.png) ;
+  text-align:center;
+  margin-top: 50px;
+}
+
+input[type="number"], input[type="checkbox"] {
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+textarea {
+  width: 80%;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
